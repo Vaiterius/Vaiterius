@@ -1,6 +1,6 @@
 ### Hi, I’m [Gerard](https://github.com/Vaiterius) 👋
 
-Originally a self-taught programmer, now pursuing my bachelor's degree in Computer Science all while making fun and interesting projects in my free time. Seasoned in Python and adaptable to working with a range of other languages and frameworks. Updated almost daily, I put pretty much of my projects here.
+Originally a self-taught programmer, now pursuing my bachelor's degree in Computer Science all while making fun and interesting projects in my free time. Seasoned in Python and adaptable to working with a range of other languages and frameworks. Updated almost daily, I put pretty much all of my projects here.
 
 - 📚 I'm a current senior at [California State University, Northridge](https://w2.csun.edu/)
 - 👀 I’m interested in full-stack development with a focus on the back-end, but I like exploring other topics on the side!
@@ -34,7 +34,7 @@ Hit me up if you want to collab on anything! 🙂
     <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
     <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-    <img src=https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
     <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
     <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
     <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
