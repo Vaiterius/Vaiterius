@@ -1,14 +1,14 @@
 ### Hi, I’m [Gerard](https://github.com/Vaiterius) 👋
 
-Originally a self-taught programmer, now pursuing my bachelor's degree in Computer Science all while making fun and interesting projects in my free time. Seasoned in Python and adaptable to working with a range of other languages and frameworks. Updated almost daily, I put pretty much all of my projects here.
+Originally a self-taught programmer, now pursuing a bachelor's degree in Computer Science all while making fun and interesting projects in my spare time. Seasoned in Python and adaptable to working with a range of other languages and frameworks. Updated almost daily, I put pretty much all of my projects here.
 
 - 📚 I'm a current senior at [California State University, Northridge](https://w2.csun.edu/)
 - 👀 I’m interested in full-stack development with a focus on the back-end, but I like exploring other topics on the side!
 - 🌱 I'm currently:
     - Learning front-end technologies like React
-    - Web design volunteer work for my university's webpages
+    - Doing web design work for my university's webpages
     - Sharpening data structures and algorithms skills
-    - Working on several projects, including my [portfolio site](https://vaiterius.github.io) in the works
+    - Working on several projects, including my [portfolio site](https://vaiterius.github.io), a [social cookbook app](https://github.com/Vaiterius/Social-Cookbook-App), and my [roguelike](https://github.com/Vaiterius/Traditional-Roguelike)
 - 💞️ I’m looking to collaborate on any fun, open-source projects, and seeking out internships along the way
 - 📫 Want to reach me?: [Discord](https://discordapp.com/users/354783154126716938) & [LinkedIn](https://www.linkedin.com/in/vaiterius/)
 
