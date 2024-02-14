@@ -1,15 +1,15 @@
-### Hi, I’m [Gerard](https://github.com/Vaiterius) 👋
+### Hi, I’m [Gerard](https://vaiterius.github.io/) 👋
 
-Originally a self-taught programmer, now pursuing a bachelor's degree in Computer Science all while making fun and interesting projects in my spare time. Seasoned in Python and adaptable to working with a range of other languages and frameworks. Updated almost daily, I put pretty much all of my projects here.
+Originally a self-taught programmer, now pursuing a bachelor's degree in Computer Science all while making fun and interesting projects in my spare time. I love working in Python and am adaptable to working with a range of other languages and frameworks. Updated almost daily, I put pretty much all of my projects here.
 
 - 📚 I'm a current senior at [California State University, Northridge](https://w2.csun.edu/)
 - 👀 I’m interested in full-stack development with a focus on the back-end, but I like exploring other topics on the side!
 - 🌱 I'm currently:
-    - Learning front-end technologies like React
-    - Doing web design work for my university's webpages
+    - Searching for a Summer 2024 SWE internship based in the US
+    - Doing web design work for my university's department webpages
     - Sharpening data structures and algorithms skills
-    - Working on several projects, including my [portfolio site](https://vaiterius.github.io), a [social cookbook app](https://github.com/Vaiterius/Social-Cookbook-App), and my [roguelike](https://github.com/Vaiterius/Traditional-Roguelike)
-- 💞️ I’m looking to collaborate on any fun, open-source projects, and seeking out internships along the way
+    - Working on several projects, including my [roguelike](https://github.com/Vaiterius/Traditional-Roguelike) and a [social cookbook app](https://github.com/Vaiterius/Social-Cookbook-App)
+- 💞️ I’m looking to collaborate on any fun, open-source projects
 - 📫 Want to reach me?: [Discord](https://discordapp.com/users/354783154126716938) & [LinkedIn](https://www.linkedin.com/in/vaiterius/)
 
 Hit me up if you want to collab on anything! 🙂
