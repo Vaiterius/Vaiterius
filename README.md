@@ -7,12 +7,10 @@ Originally a self-taught programmer, now pursuing a bachelor's degree in Compute
 - 🌱 I'm currently:
     - Searching for a Summer 2024 SWE internship based in the US
     - Doing web design work for my university's department webpages
-    - Sharpening data structures and algorithms skills
-    - Working on several projects, including my [roguelike](https://github.com/Vaiterius/Traditional-Roguelike) and a [social cookbook app](https://github.com/Vaiterius/Social-Cookbook-App)
+    - Developing for the iOS on the [smart clothing app](https://github.com/CSU-Northridge-ARCS-Dev/smart-clothing-app) for [ARCS](https://arcs.center/)
+    - Working on a couple side projects, including my [roguelike](https://github.com/Vaiterius/Traditional-Roguelike) and a [social cookbook app](https://github.com/Vaiterius/Social-Cookbook-App)
 - 💞️ I’m looking to collaborate on any fun, open-source projects
-- 📫 Want to reach me?: [Discord](https://discordapp.com/users/354783154126716938) & [LinkedIn](https://www.linkedin.com/in/vaiterius/)
-
-Hit me up if you want to collab on anything! 🙂
+- 📫 Want to reach me? Here's my [Discord](https://discordapp.com/users/354783154126716938) & [LinkedIn](https://www.linkedin.com/in/vaiterius/)
 
 #### A list of every technology I've worked with in the past:
 <details>
